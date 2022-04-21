@@ -43,6 +43,23 @@ print(generated_text)
 Александр Сергеевич Пушкин родился в  г. Санкт-Петербурге.
 ```
 
+## Choosing best parameters:
+
+In general:
+```min_length=100,
+eos_token_id=5, 
+pad_token=1,
+do_sample=True,
+top_k=0,
+top_p=0.8,
+no_repeat_ngram_size=4
+```
+
+English Generation: 
+```top_p=0.95, top_k=0```
+
+
+
 ## Examples
 
 
