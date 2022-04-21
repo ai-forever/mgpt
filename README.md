@@ -43,11 +43,11 @@ print(generated_text)
 ## Examples
 
 
-**mGPT Generation Examples**
-[![Open In Colab](https://colab.research.google.com/drive/1Vd3TEh1ojBvE7q8BDLmcA9RXeq0aQIlf?usp=sharing)
+#### mGPT Generation Examples
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Vd3TEh1ojBvE7q8BDLmcA9RXeq0aQIlf?usp=sharing)
 
-**mGPT Fine-tuning example**
-[![Open In Colab](https://colab.research.google.com/drive/1qkDhzEab2MXvohOuQYgKixHHimlh1Oh2?usp=sharing)
+#### mGPT Fine-tuning example
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qkDhzEab2MXvohOuQYgKixHHimlh1Oh2?usp=sharing)
 
 ## Languages supported
 
