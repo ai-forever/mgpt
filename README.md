@@ -3,7 +3,7 @@
 Multilingual Generative Pretrained Transformer
 
  - 1.3 billion parameter model
- - trained on 60 languages
+ - Trained on 60 languages
  - HuggingFace compatible [model card](https://huggingface.co/sberbank-ai/mGPT)
 
  ## Setting up environment
@@ -12,8 +12,11 @@ Multilingual Generative Pretrained Transformer
 
 ## Checkpoint backup
 
+Download checkpoints to load model from disk:
 ```
-wget https://files.sberdisk.ru/s/NzeBqYE84TAQDiS/download
+!wget https://files.sberdisk.ru/s/NzeBqYE84TAQDiS/download -O model.zip
+!unzip model.zip -d mgptxl
+model_name = "./mgptxl" 
 ```
 
 ## Transformers usage 🤗
