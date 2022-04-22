@@ -107,5 +107,5 @@ English Generation:
 
 ## Contributing
 
-We welcome community contributions to the model, and celebrate both its inference and training technique enhencements
+We welcome community contributions to the model, and celebrate both its inference and training technique enhancements
 
