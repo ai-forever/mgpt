@@ -3,7 +3,7 @@
 ### Multilingual Generative Pretrained Transformer
 [![Apache license](https://img.shields.io/badge/License-Apache-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
-[[Paper]](https://arxiv.org/abs/2204.07580) [[Хабр]](https://habr.com/ru/company/sberdevices/blog/662195/) [[Model Card]](https://huggingface.co/sberbank-ai/mGPT) [[Colab]](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Vd3TEh1ojBvE7q8BDLmcA9RXeq0aQIlf?usp=sharing)
+[[Paper]](https://arxiv.org/abs/2204.07580) [[Хабр]](https://habr.com/ru/company/sberdevices/blog/662195/) [[Model Card]](https://huggingface.co/sberbank-ai/mGPT) 
 
  - 1.3 billion parameter model
  - Trained on 60 languages
