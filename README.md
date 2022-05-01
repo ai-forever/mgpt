@@ -3,6 +3,17 @@
 ### Multilingual Generative Pretrained Transformer
 [![Apache license](https://img.shields.io/badge/License-Apache-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mgpt-few-shot-learners-go-multilingual/few-shot-ner-on-xglue)](https://paperswithcode.com/sota/few-shot-ner-on-xglue?p=mgpt-few-shot-learners-go-multilingual)
+	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mgpt-few-shot-learners-go-multilingual/part-of-speech-tagging-on-xglue)](https://paperswithcode.com/sota/part-of-speech-tagging-on-xglue?p=mgpt-few-shot-learners-go-multilingual)
+	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mgpt-few-shot-learners-go-multilingual/cross-lingual-transfer-on-xcopa)](https://paperswithcode.com/sota/cross-lingual-transfer-on-xcopa?p=mgpt-few-shot-learners-go-multilingual)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mgpt-few-shot-learners-go-multilingual/cross-lingual-paraphrase-identification-on)](https://paperswithcode.com/sota/cross-lingual-paraphrase-identification-on?p=mgpt-few-shot-learners-go-multilingual)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mgpt-few-shot-learners-go-multilingual/cross-lingual-natural-language-inference-on-4)](https://paperswithcode.com/sota/cross-lingual-natural-language-inference-on-4?p=mgpt-few-shot-learners-go-multilingual)
+
+
 [[Paper]](https://arxiv.org/abs/2204.07580) [[Хабр]](https://habr.com/ru/company/sberdevices/blog/662195/) [[Model Card]](https://huggingface.co/sberbank-ai/mGPT) 
 
  - 1.3 billion parameter model
