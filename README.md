@@ -42,7 +42,7 @@ The Armenian finetune was around 7 days with 4 Tesla NVidia V100 and has made 16
 
 ## Web Demo
 Integrated into [Huggingface Spaces 🤗](https://huggingface.co/spaces) using [Gradio](https://github.com/gradio-app/gradio). Try out the Web Demo for generation: [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/sberbank-ai/mGPT-armenian/) 
- ![](https://habrastorage.org/webt/sv/1j/xw/sv1jxwyrrg6nw-tlnzbz0fazd-i.png)
+![](https://habrastorage.org/webt/ud/a8/mn/uda8mnufnq7oavqbivs6ciwdhb8.png)
 
  ## Setting up environment
 
