@@ -14,7 +14,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mgpt-few-shot-learners-go-multilingual/cross-lingual-natural-language-inference-on-4)](https://paperswithcode.com/sota/cross-lingual-natural-language-inference-on-4?p=mgpt-few-shot-learners-go-multilingual)
 
 
-[[Paper]](https://arxiv.org/abs/2204.07580) [[Хабр]](https://habr.com/ru/company/sberdevices/blog/662195/) [[Model Card]](https://huggingface.co/sberbank-ai/mGPT) 
+[[Paper]](https://arxiv.org/abs/2204.07580) [[Habr]](https://habr.com/ru/company/sberdevices/blog/662195/) [[Model Card]](https://huggingface.co/sberbank-ai/mGPT) 
 
  - 1.3 billion parameter model
  - Trained on 60 languages
