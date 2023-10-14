@@ -32,7 +32,7 @@ out = model.generate(
         min_length=100, 
         max_length=100, 
         eos_token_id=5, 
-        pad_token=1,
+        pad_token_id=1,
         top_k=10,
         top_p=0.0,
         no_repeat_ngram_size=5
@@ -47,7 +47,7 @@ print(generated_text)
 In general:
 ```min_length=100,
 eos_token_id=5, 
-pad_token=1,
+pad_token_id=1,
 do_sample=True,
 top_k=0,
 top_p=0.8,
